@@ -11,6 +11,7 @@ requirements = [
     'humanize>=0.5.1',
     'GitPython>=2.1.10',
     'colorhash>=1.0.2',
+    'pandas>=0.23.0',
 ]
 
 setuptools.setup(
